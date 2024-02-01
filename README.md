@@ -1,2 +1,0 @@
-inline css
-html code
